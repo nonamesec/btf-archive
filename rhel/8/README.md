@@ -50,7 +50,6 @@ The following BTF snapshots were imported on 2026-11-11 from
 at commit `8c1638259de2830e4c217cff2ea49bca2b2041e4`. Architecture and kernel release
 are taken from the upstream paths. These are upstream BTF snapshots,
 not native BTF extracted from the RHEL 8.10 lab described above.
-The upstream [Apache 2.0 license](BTFHUB-LICENSE) is included.
 
 The BTF bytes are unchanged. Only the tar metadata and compression were
 normalized to the archive convention below. Downloaded archives were
